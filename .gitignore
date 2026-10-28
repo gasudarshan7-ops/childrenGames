@@ -1,0 +1,15 @@
+# Godot 4 specific ignores
+.godot/
+*.translation
+
+# Build outputs (exceeds GitHub 100MB file limit)
+build/
+
+# Android Keystores
+*.keystore
+
+# Temporary and cache files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
